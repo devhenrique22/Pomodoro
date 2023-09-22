@@ -1,14 +1,14 @@
 # Pomodoro 
 
-![image](https://github.com/devhenrique22/Pomodoro/assets/14983121/54585fb3-ddcd-47e3-a999-3a740e2dadd7)
 
 
+![image](https://github.com/devhenrique22/Pomodoro/assets/14983121/c8f895d6-18ad-4f4b-8624-052d86077e78)
 
 ## Descrição
 
 Este é um simples programa de Pomodoro escrito em Ruby. Ele ajuda a melhorar a produtividade dividindo seu trabalho em intervalos de foco e pausa. O programa exibe um cronômetro regressivo durante o tempo de foco e de pausa, notificando-o quando cada período terminar.
 
-Estudando Ruby nos tempos livres 😎 💎 
+Estudando Ruby nas horas vagas 😎 💎 
 
 ## Funcionalidades
 
