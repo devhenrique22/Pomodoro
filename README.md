@@ -1,6 +1,8 @@
 # Pomodoro 
 
-!![Pomodoro](![image](https://github.com/devhenrique22/Pomodoro/assets/14983121/0a6786ba-090e-481d-8193-5c6b37e48e5a))
+![image](https://github.com/devhenrique22/Pomodoro/assets/14983121/54585fb3-ddcd-47e3-a999-3a740e2dadd7)
+
+
 
 ## Descrição
 
